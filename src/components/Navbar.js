@@ -32,10 +32,10 @@ export default function Navbar() {
           </a>
 
         </nav>
-        <a href='https://www.linkedin.com/in/mahika-garg-7358b0228/' className='mr-5 text-lg'><BsLinkedin /></a>
-        <a href='https://github.com/Mahikagarg09' className='mr-5 text-lg'><FaGithub /></a>
-        <a href='https://twitter.com/MaHikA_GarG_23' className='mr-5 text-lg'><FaTwitter /></a>
-        <a href="https://www.instagram.com/_mahika_garg_/" className='mr-5 text-lg'><FaInstagram /></a>
+        <a href='https://www.linkedin.com/in/mahika-garg-7358b0228/' className='mr-5 text-lg hover:text-white dark:hover:text-white'><BsLinkedin /></a>
+        <a href='https://github.com/Mahikagarg09' className='mr-5 text-lg hover:text-white dark:hover:text-white'><FaGithub /></a>
+        <a href='https://twitter.com/MaHikA_GarG_23' className='mr-5 text-lg hover:text-white dark:hover:text-white'><FaTwitter /></a>
+        <a href="https://www.instagram.com/_mahika_garg_/" className='mr-5 text-lg hover:text-white dark:hover:text-white'><FaInstagram /></a>
         <a
           href="#contact"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-lg mt-4 md:mt-0">
