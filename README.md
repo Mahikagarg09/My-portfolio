@@ -1,1 +1,1 @@
-https://portfolio-mahika.vercel.app/
+https://www.heyitsmahika.me/
